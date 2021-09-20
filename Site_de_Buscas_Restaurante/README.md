@@ -1,0 +1,1 @@
+Projeto construído junto com o especialista Patrick Narciso. Esse projeto consiste em um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece, usando React.JS e API do Google, iniciando do zero à nuvem.
